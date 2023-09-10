@@ -3,6 +3,7 @@ This project demonstrates the use of powerBI in analysing and visualizing the sp
  and make decision effectively.    
    
  Example Images  
- ![Dashboard]
- 
- please refer to the
+ ![Dashboard](https://github.com/raj-akhil/Power-BI/blob/main/sc_1.png)  
+
+     
+ [please refer to the link](https://youtu.be/wbWgF8MT)
