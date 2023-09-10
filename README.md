@@ -6,4 +6,4 @@ This project demonstrates the use of powerBI in analysing and visualizing the sp
  ![Dashboard](https://github.com/raj-akhil/Power-BI/blob/main/sc_1.png)  
 
      
- [please refer to the link](https://youtu.be/wbWgF8MT)
+ please refer to the link [click here](https://youtu.be/wbWgF8MT9ms)
